@@ -1,0 +1,6 @@
+# .gitignore
+/data/raw/*
+/data/cleaned/*
+*.ipynb_checkpoints
+*.DS_Store
+.env
