@@ -1,0 +1,22 @@
+# Data Sources
+
+## Building Permits
+- Source: Seattle Open Data Portal  
+- URL: https://data.seattle.gov/resource/permits.csv  
+- Description: Records of all building permits issued in Seattle from 2010–2024  
+- License: Open Government License  
+- Download date: June 2025
+
+## Infrastructure Projects
+- Source: Seattle Department of Transportation  
+- URL: https://www.seattle.gov/transportation/projects.geojson  
+- Description: Geospatial data of infrastructure projects including roads, transit lines, and utilities  
+- Format: GeoJSON  
+- Download date: June 2025
+
+## Rental Prices
+- Source: Zillow Research  
+- URL: https://www.zillow.com/research/data/  
+- Description: Median rent prices by ZIP code in Seattle, 2015–2024  
+- Notes: Aggregated monthly data  
+- Download date: June 2025
