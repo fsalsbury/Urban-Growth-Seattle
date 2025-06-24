@@ -7,8 +7,8 @@ This project analyzes whether development activity and pricing respond with a la
 - Visualize potential arbitrage zones in development timing
 
 ## Data Sources
-[City of Seattle Building Permits](https://data.seattle.gov/Permitting/Building-Permit-Map/5rc4-5s78)
-[Light Rail Stations Map](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::light-rail-stations-1/explore?location=47.669783%2C-122.167503%2C11.39)
+- [City of Seattle Building Permits](https://data.seattle.gov/Permitting/Building-Permit-Map/5rc4-5s78)
+- [Light Rail Stations Map](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::light-rail-stations-1/explore?location=47.669783%2C-122.167503%2C11.39)
 
 ## Tools Used
 - Python (pandas, geopandas)
